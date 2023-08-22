@@ -6,7 +6,7 @@ To address this, I propose implementing a 𝕍ote protocol within the Ordinals c
 - Initiate- Deploy a proposal.
 - Express- Inscribe a ballot.
 - Vote- Transfer the ballot to yourself to complete the voting process.
-![image](https://github.com/poshi-sats/vote-protocol-specs/assets/140290499/772eb6ab-0824-445e-ad36-c6c053e8bd27)
+![image](https://github.com/poshi-sats/vote-protocol-specs/assets/140290499/24240608-1125-4381-af46-e338d6aa12a7)
 
 Key features of the 𝕍ote protocol: 
 - The indexers of the protocol are decentralized, because whoever understands SQL is able to calculate voting results for the proposals they are interested in. By the way, I will build a demo on GeniiData as a reference.
